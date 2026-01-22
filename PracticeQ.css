@@ -1,0 +1,47 @@
+#a {
+     height: 50px;
+     width: 150px;
+     border: 2px, black, solid;
+     border-top-left-radius: 10px;
+     border-bottom-right-radius: 10px;
+     background-color: blue;
+     margin: 15px;
+     transform: skew(20deg);
+}
+
+#b {
+     height: 50px;
+     width: 150px;
+     border: 2px, solid, black;
+     border-top-left-radius: 10px;
+     border-bottom-right-radius: 10px;
+     background-color: rgb(66, 138, 36);
+     margin: 15px;
+     transform: skew(-20deg);
+}
+#c {
+     height: 50px;
+     width: 150px;
+     border: 2px, black, solid;
+     border-top-left-radius: 10px;
+     border-bottom-right-radius: 10px;
+     background-color: rgb(31, 117, 94);
+     margin: 15px;
+     transform: skew(20deg)
+}
+#lop {
+     height: 50px;
+     width: 150px;
+     border: 2px, black, solid;
+     border-top-left-radius: 10px;
+     border-bottom-right-radius: 10px;
+     background-color: rgb(102, 19, 105);
+     margin: 15px;
+     transform: skew(-20deg);
+     
+}
+
+* {
+     background-image: url(https://i.sstatic.net/TCRV5.jpg);
+
+}

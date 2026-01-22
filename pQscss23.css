@@ -1,0 +1,12 @@
+#mydiv p {
+    color: green;
+}
+
+
+p::first-line {
+    color: brown;
+}
+
+p::selection {
+    color: yellowgreen     ;
+}
